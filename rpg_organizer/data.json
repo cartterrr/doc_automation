@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {
+      "id": "char_9662fc39",
+      "name": "Ярослав",
+      "level": 1,
+      "hp": 10,
+      "mp": 0,
+      "attributes": {
+        "str": 10,
+        "dex": 10,
+        "int": 10
+      },
+      "inventory": [
+        "item_7c2e2845"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "item_7c2e2845",
+      "name": "Меч",
+      "type": "misc",
+      "weight": 0.0,
+      "notes": ""
+    }
+  ],
+  "quests": []
+}
