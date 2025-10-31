@@ -33,7 +33,8 @@
    pip install -r requirements.txt
 
 2. Запустите программу через powershell:
-python main.py
+ ```bash
+   python main.py
 
 ---
 
@@ -41,3 +42,4 @@ python main.py
 
 Проект создан в рамках учебного курса «Автоматизация офисных процессов с использованием Python».
 Главная цель — освоить работу с файлами Word, Excel и PDF средствами Python и библиотекой Tkinter.
+
