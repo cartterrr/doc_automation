@@ -38,6 +38,7 @@
 2. Запустите программу через PowerShell:
 ```bash
 python main.py
+```
 
 
 
@@ -109,6 +110,7 @@ python main.py
 ```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ---
 
@@ -140,6 +142,7 @@ python main.py
 ### 🚀 Запуск проекта
 ```bash
 python -m rpg_organizer.main_cli
+```
 
 ---
 
